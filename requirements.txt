@@ -1,0 +1,6 @@
+python-dotenv
+groq
+deepgram-sdk
+google-cloud-speech
+google-cloud-texttospeech
+elevenlabs
