@@ -1,0 +1,27 @@
+hr_lines = [
+    "Hi John, thanks for joining. Please have a seat.",
+    "I know this might not be an easy conversation, but I want to be direct and respectful. After a thorough review, the management has made the decision to end your employment with the company, effective immediately.",
+    "Yes. I understand this may come as a shock. This decision was not taken lightly.",
+    "I completely understand your concern. The decision was based on a combination of factors, including ongoing feedback regarding project deadlines, communication with the team, and alignment with company goals. This has been discussed over the past few months during your check-ins.",
+    "You’re right that we didn’t issue a formal Performance Improvement Plan. However, your last two evaluations did raise several red flags. The management team discussed this and decided not to proceed with a PIP but rather make a direct decision.",
+    "That was also a factor. The company is going through changes, and unfortunately, that means reducing roles in some departments.",
+    "Your access to company systems will end by the end of today. You’ll receive two months’ severance pay, continued health benefits for 30 days, and we’ll offer outplacement support if you’re interested.",
+    "Yes. I’m happy to provide a neutral reference confirming your role and time here. For a more detailed recommendation, I suggest reaching out to your former manager directly.",
+    "Just your laptop and access card. You can leave them with IT today or tomorrow. We’ll email a checklist.",
+    "I truly wish you all the best, John. If you need anything over the next few days, don’t hesitate to reach out."
+]
+
+employee_lines = [
+    "Sure, thanks Mary.",
+    "…Wait—I'm being let go?",
+    "Can I ask why? I thought my performance had been solid lately.",
+    "But no one told me I was at risk of being fired. I was never formally warned.",
+    "I’m still surprised. I’ve been trying to improve. Is this related to the recent restructuring?",
+    "So, what happens now?",
+    "Will I be able to get a reference?",
+    "Alright. Do I need to return anything?",
+    "I see. Well… this is not how I imagined today would go. But I appreciate the clarity.",
+    "Thanks, Mary. I’ll take some time to process this."
+]
+hr_directory = r"E:\Desktop\AI Stack\conversation-resource\hr"
+employee_directory = r"E:\Desktop\AI Stack\conversation-resource\employee"
